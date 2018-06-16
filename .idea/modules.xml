@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rolepaygame.iml" filepath="$PROJECT_DIR$/.idea/modules/rolepaygame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rolepaygame_main.iml" filepath="$PROJECT_DIR$/.idea/modules/rolepaygame_main.iml" group="rolepaygame" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rolepaygame_test.iml" filepath="$PROJECT_DIR$/.idea/modules/rolepaygame_test.iml" group="rolepaygame" />
+    </modules>
+  </component>
+</project>
